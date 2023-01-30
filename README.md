@@ -1,3 +1,32 @@
+# NFT Marketplace
+A platform for buying, selling and promoting Non-Fungible Tokens (NFTs).
+
+## Introduction
+The NFT Marketplace is a decentralized platform for buying, selling, and promoting Non-Fungible Tokens (NFTs). Our goal is to provide a secure and user-friendly platform for NFT enthusiasts and collectors to discover, buy and sell unique digital assets.
+
+## Features
+Buy and sell NFTs
+Promote NFTs to a wider audience
+Decentralized platform for secure transactions
+User-friendly interface
+Discover unique digital assets
+
+
+## Getting Started
+To start using the NFT Marketplace, simply sign up on our platform and start exploring the world of NFTs. Whether you're a collector or an artist, you can easily buy and sell NFTs, and showcase your digital assets to a wider audience.
+
+## Technology Stack
+The NFT Marketplace is built with React JS on the frontend and [insert technology used on the backend].
+
+## Support
+If you have any questions or need assistance, our support team is always available to help. Contact us at [insert email/contact information].
+
+## Contributing
+We welcome contributions to the NFT Marketplace. If you have any ideas or suggestions, please open an issue on Github or submit a pull request.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
